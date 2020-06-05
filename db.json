@@ -1,5 +1,4 @@
-{
-"todos": [{
+[{
     "id": 1,
     "title": "Iphone 5",
     "tasks": [{
@@ -30,4 +29,3 @@
         "description": "task 2 30"
     }]
 }]
-}
